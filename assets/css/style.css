@@ -1,0 +1,89 @@
+
+@media (min-width: 640px) {
+
+
+	#about {
+		margin: 15px 0% 15px 10%;
+    	width: 80%;
+	}
+
+	#about img {
+		width: 45%;;
+		margin: 5px 18px 20px 18px;
+		float: left;
+	}
+
+	#about p {
+		padding: 0px;
+	}
+
+	#connect {
+		width: 80%;
+		margin: 15px 0% 15px 10%;
+		height: 160px;
+	}
+
+	#connect h3 {
+		padding: 0px 0px 0px 15px;
+	}
+
+	#contact {
+		margin: 15px 0% 15px 10%;
+    	width: 80%;
+	}
+
+	#portfolio {
+		margin: 15px 0% 15px 10%;
+    	width: 80%;
+	}
+
+	#portfolio li {
+		width: 45%;
+	    margin: 10px 0px 10px 20px;
+	    float: left;
+	}
+
+	#footer {
+		width: 90%;
+	    margin-left: 5%;
+	    border-radius: 5px;
+	}
+
+
+}
+
+@media (min-width: 980px) {
+
+	#about {
+		margin: 15px -6% 60px 10%;
+    	width: 50%;
+	}
+
+	#connect {
+		width: 25%;
+	}
+
+	#contact {
+    	width: 50%;
+    	margin: 15px -6% 50px 10%;
+
+	}
+
+	#portfolio {
+    	width: 50%;
+    	margin: 15px -6% 60px 10%;
+
+	}
+
+	#portfolio li {
+		width: 45%;
+	}
+
+	#footer {
+		width: 90%;
+	    margin-left: 5%;
+	    border-radius: 3px;
+	}
+
+
+}
